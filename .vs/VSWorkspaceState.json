@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Favorites",
+    "\\src\\components\\Nav",
+    "\\src\\components\\Products",
+    "\\src\\store",
+    "\\src\\store\\actions",
+    "\\src\\store\\reducers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
