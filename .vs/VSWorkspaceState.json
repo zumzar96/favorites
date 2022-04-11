@@ -4,11 +4,12 @@
     "\\src",
     "\\src\\components",
     "\\src\\components\\Favorites",
-    "\\src\\components\\Nav",
     "\\src\\components\\Products",
+    "\\src\\containers",
     "\\src\\store",
     "\\src\\store\\actions",
     "\\src\\store\\reducers"
   ],
+  "SelectedNode": "\\src\\components\\Favorites",
   "PreviewInSolutionExplorer": false
 }
